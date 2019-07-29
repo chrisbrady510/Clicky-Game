@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Peach",
+    "clicked": false,
+    "image":
+    "https://user-images.githubusercontent.com/50473646/62016468-375b7800-b167-11e9-8834-22fe35779b5a.png"
+  },
+  {
+    "id": 2,
+    "name": "Yoshi",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016483-44786700-b167-11e9-94c4-5ca4ee8941b2.png"
+  },
+  {
+    "id": 3,
+    "name": "Wario",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016481-42160d00-b167-11e9-9eed-2c9af0dbe044.png"
+  },
+  {
+    "id": 4,
+    "name": "Waluigi",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016478-3f1b1c80-b167-11e9-8517-11c308a2a72c.png"
+  },
+  {
+    "id": 5,
+    "name": "Toadette",
+    "clicked": false,
+    "image":
+    "https://user-images.githubusercontent.com/50473646/62016475-3cb8c280-b167-11e9-90ac-fe6c6a17e0d2.png"
+  },
+  {
+    "id": 6,
+    "name": "Toad",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016470-3a566880-b167-11e9-9125-5cf6e84f5d2a.png"
+  },
+  {
+    "id": 7,
+    "name": "Mario",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016450-1c890380-b167-11e9-8f2a-221facd9e5fe.png"
+  },
+  {
+    "id": 8,
+    "name": "Luigi",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016447-1abf4000-b167-11e9-8b6d-536ef7c1faa7.png"
+  },
+  {
+    "id": 9,
+    "name": "Koopa",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016446-18f57c80-b167-11e9-8ded-dc99aec23e4a.png"
+  },
+  {
+    "id": 10,
+    "name": "Donkey Kong",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016444-172bb900-b167-11e9-86b8-b3994ea53701.png"
+  },
+  {
+    "id": 11,
+    "name": "Dry Bowser",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016442-1561f580-b167-11e9-9eac-fc441794ed4a.png"
+  },
+  {
+    "id": 12,
+    "name": "Bowser",
+    "clicked": false,
+    "image":
+      "https://user-images.githubusercontent.com/50473646/62016440-12670500-b167-11e9-9007-a14baab5b57d.png"
+  }
+  
+]
+

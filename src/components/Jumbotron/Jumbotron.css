@@ -1,0 +1,27 @@
+/*JUMBOTRON*/
+.jumbotron {
+	background-image: url("https://user-images.githubusercontent.com/50473646/62015140-c1064800-b15d-11e9-99ec-73b230f16a61.png");
+	background-blend-mode: normal;
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #e7283a;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: blue
+}
